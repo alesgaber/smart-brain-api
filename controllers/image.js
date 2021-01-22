@@ -1,5 +1,5 @@
 const Clarifai = require('clarifai');
-const env = require('../enviroments')
+const env = require('../enviroments/enviroments')
 
 
 console.log(env);
